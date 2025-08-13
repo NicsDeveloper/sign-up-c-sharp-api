@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+UT/MYNuRgA=",
+  "dgSpecHash": "WZZyJ9IBMXo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj",
+  "projectFilePath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",

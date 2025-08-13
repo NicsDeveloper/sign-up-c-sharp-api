@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8v072UlUhs=",
+  "dgSpecHash": "Ix99rGpOkh4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
+  "projectFilePath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

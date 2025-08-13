@@ -3765,11 +3765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
       "projectName": "SignUpApi.Tests",
-      "projectPath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
+      "projectPath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\SignUpApi.Tests.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\obj\\",
+      "outputPath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\tests\\SignUpApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3786,14 +3786,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj": {
-              "projectPath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj"
+            "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj": {
+              "projectPath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Application\\SignUpApi.Application.csproj"
             },
-            "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Domain\\SignUpApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Domain\\SignUpApi.Domain.csproj"
+            "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Domain\\SignUpApi.Domain.csproj": {
+              "projectPath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Domain\\SignUpApi.Domain.csproj"
             },
-            "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Infrastructure\\SignUpApi.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Infrastructure\\SignUpApi.Infrastructure.csproj"
+            "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Infrastructure\\SignUpApi.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\nicol\\Desktop\\SignUpApi\\src\\SignUpApi.Infrastructure\\SignUpApi.Infrastructure.csproj"
             }
           }
         }

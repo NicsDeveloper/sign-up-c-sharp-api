@@ -9,3 +9,4 @@ C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi
 C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\refint\SignUpApi.Domain.dll
 C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.pdb
 C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\ref\SignUpApi.Domain.dll
+c:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.sourcelink.json
