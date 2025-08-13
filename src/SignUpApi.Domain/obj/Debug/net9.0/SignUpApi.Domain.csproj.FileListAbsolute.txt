@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\bin\Debug\net9.0\SignUpApi.Domain.deps.json
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\bin\Debug\net9.0\SignUpApi.Domain.dll
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\bin\Debug\net9.0\SignUpApi.Domain.pdb
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.AssemblyInfo.cs
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.dll
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\refint\SignUpApi.Domain.dll
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\SignUpApi.Domain.pdb
+C:\Users\nicol\Desktop\SignUpApi\src\SignUpApi.Domain\obj\Debug\net9.0\ref\SignUpApi.Domain.dll
